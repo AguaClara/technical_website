@@ -1,0 +1,3 @@
+[submodule "UASB"]
+	path = UASB
+	url = https://github.com/AguaClara/UASB
